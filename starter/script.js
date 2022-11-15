@@ -1,12 +1,7 @@
 'use strict';
 
 /////////////////////////////////////////////////
-// * BANKIST APP
-
-/////////////////////////////////////////////////
-// Data
-
-// DIFFERENT DATA! Contains movement dates, currency and locale
+// Sample Data
 
 const account1 = {
   owner: 'Sourav Kumar',
