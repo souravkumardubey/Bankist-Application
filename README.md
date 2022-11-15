@@ -1,1 +1,1 @@
-# Bankist-Application
+# JS-Bank-Application
